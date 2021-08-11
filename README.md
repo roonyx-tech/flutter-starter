@@ -14,7 +14,7 @@ Example:
   main_cubit.dart
   main_state.dart
 ```
-- After that in your statefull widget your state now should be extneded with BaseState.
+- After that in your statefull widget your state now should be extended with BaseState.
 
 Example: 
 ```
